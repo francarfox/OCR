@@ -1,0 +1,16 @@
+D:\Projects\C#\OCR\OCR\bin\Debug\OCR.exe
+D:\Projects\C#\OCR\OCR\bin\Debug\OCR.pdb
+D:\Projects\C#\OCR\OCR\bin\Debug\AForge.Neuro.dll
+D:\Projects\C#\OCR\OCR\bin\Debug\AForge.Genetic.dll
+D:\Projects\C#\OCR\OCR\bin\Debug\AForge.dll
+D:\Projects\C#\OCR\OCR\bin\Debug\AForge.Math.dll
+D:\Projects\C#\OCR\OCR\bin\Debug\AForge.Neuro.xml
+D:\Projects\C#\OCR\OCR\bin\Debug\AForge.Genetic.xml
+D:\Projects\C#\OCR\OCR\bin\Debug\AForge.xml
+D:\Projects\C#\OCR\OCR\bin\Debug\AForge.Math.xml
+D:\Projects\C#\OCR\OCR\obj\x86\Debug\OCR.Form1.resources
+D:\Projects\C#\OCR\OCR\obj\x86\Debug\OCR.Properties.Resources.resources
+D:\Projects\C#\OCR\OCR\obj\x86\Debug\OCR.exe
+D:\Projects\C#\OCR\OCR\obj\x86\Debug\OCR.pdb
+D:\Projects\C#\OCR\OCR\obj\x86\Debug\OCR.csprojResolveAssemblyReference.cache
+D:\Projects\C#\OCR\OCR\obj\x86\Debug\OCR.csproj.GenerateResource.Cache
